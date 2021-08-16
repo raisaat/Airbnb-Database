@@ -7,4 +7,4 @@ Reverse-engineered the database of the vacation rental web application, [Airbnb]
 
 **NOTE:** This project does not comprehensively cover all aspects of the application.
 
-*Refer to "Airbnb_Final_Report.pdf" for more information*
+*Refer to "Airbnb.pdf" for more information*
